@@ -1,0 +1,7 @@
+MONSTER_DATA = {
+
+}
+
+ATTACK_DATA = {
+
+}
